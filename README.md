@@ -1,2 +1,29 @@
-# esp32-home-guard
-I built a smart surveillance camera using an ESP32-CAM and a microphone module. It connects to my home Wi-Fi and streams live video directly to a dashboard I hosted on Vercel. You can watch the live camera feed and click a button to take photos. It was tricky getting the live video to stream without lag and f but I got everything working
+ESP32 Home Guard
+
+A simple security camera I made using an ESP32-CAM and a mic module. It connects to my home Wi-Fi and lets me watch live video from my browser.
+
+What it does:
+
+Streams live video to a web page on my home network
+
+Lets you click a button to take photos
+
+Has a web dashboard I hosted on Vercel
+
+Lets you turn the built-in flash light on and off
+
+Parts I used:
+
+ESP32-CAM board
+
+FTDI module to upload the code
+
+Small mic module
+
+Jumper wires and breadboard
+
+Links:
+
+Website: https://cam-rfa2zegqr-mahithchethan85-8151.vercel.app
+
+Video: https://youtube.com/shorts/_sGlhWWycRs?si=mPDIG21s50upBJM5
