@@ -12,11 +12,13 @@ Has a web dashboard I hosted on Vercel
 
 Lets you turn the built-in flash light on and off
 
+it detcts the motion after every 30 mins nd clicks a pic
+ 
 Parts I used:
 
 ESP32-CAM board
 
-FTDI module to upload the code
+pir sensor
 
 Small mic module
 
