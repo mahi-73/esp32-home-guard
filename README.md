@@ -10,15 +10,15 @@ Lets you click a button to take photos
 
 Has a web dashboard I hosted on Vercel
 
-Lets you turn the built-in flash light on and off
+Lets you turn the built-in flashlight on and off
 
-it detcts the motion after every 30 mins nd clicks a pic
- 
+Detects motion every 30 minutes and takes a picture
+
 Parts I used:
 
 ESP32-CAM board
 
-pir sensor
+PIR sensor
 
 Small mic module
 
